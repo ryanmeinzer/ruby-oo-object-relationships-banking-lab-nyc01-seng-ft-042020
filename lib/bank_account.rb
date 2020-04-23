@@ -20,5 +20,3 @@ class BankAccount
         @status = "closed"
     end
 end
-
-#third edit test 2
